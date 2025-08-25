@@ -53,7 +53,8 @@ Internet → AWS Internet Gateway → VPC Public Subnets → ECS Fargate Tasks
 ### Step 1: Clone Repository
 ```bash
 git clone <repository-url>
-cd flask-8digit-aws
+cd docker-flask-terraform
+
 ```
 
 ### Step 2: Configure AWS CLI
